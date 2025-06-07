@@ -243,11 +243,15 @@ The A* algorithm, implemented for User vs AI gameplay mode, is a pathfinding alg
 ## **4. GAME EXPERIENCE**
 
 **Game Environment**
-![Game Environment](assets/pic1-1.png)
+<p align="center"> <img src="assets/pic1-1.png" alt="Game Environment" width="600"/> </p>
 
 **Using A star algorithm - USER VS AI**
-![A* Initial (User vs AI)](assets/pic2-1.png)
-![A* Final](assets/pic3-1.png) 
+Initial State:
+
+<p align="center"> <img src="assets/pic2-1.png" alt="A* Initial (User vs AI)" width="600"/> </p>
+Final State:
+
+<p align="center"> <img src="assets/pic3-1.png" alt="A* Final" width="600"/> </p>
 
 **Terminal**
 ```python
@@ -255,8 +259,12 @@ The A* algorithm, implemented for User vs AI gameplay mode, is a pathfinding alg
 ```
 
 **Using Simulated Annealing**
-![Simulated Annealing Initial (Best State)](assets/pic4-1.png)
-![Simulated Annealing Final](assets/pic5-1.png)
+Initial (Best State):
+
+<p align="center"> <img src="assets/pic4-1.png" alt="Simulated Annealing Initial (Best State)" width="600"/> </p>
+Final State:
+
+<p align="center"> <img src="assets/pic5-1.png" alt="Simulated Annealing Final" width="600"/> </p>
 
 **Terminal**
 ```python
