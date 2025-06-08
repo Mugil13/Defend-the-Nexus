@@ -1,12 +1,4 @@
-# AI GAME REPORT
 # DEFEND THE NEXUS
-**Project Report Submitted By**
-
-Mugilkrishna D U             3122 22 5001 073
-
-Nikilesh Jayaguptha          3122 22 5001 081
-
-Department of Computer Science and Engineering
 
 ## **1. INTRODUCTION :**
 
@@ -285,3 +277,11 @@ Final State:
 ## **6. CONCLUSION**
 
 In conclusion, integration of A* for normal game mode with simulated annealing for AI vs AI provides a good balance between the nature of dynamics and stability of the game. A* ensures real-time optimal moves for user interaction, while simulated annealing introduces unpredictability along with strategic exploration for opponents in AI games. The play-through of these two algorithms will bring an engaging and adaptable experience to the game. There are opportunities to realize and enhance AI difficulty, performance, and responsiveness without upsetting the game balance. The more the UI elements and optimized algorithms, the more this project evolves into more intelligent strategic play.
+
+**Project Report Submitted By**
+
+Mugilkrishna D U             
+
+Nikilesh Jayaguptha          
+
+Department of Computer Science and Engineering
