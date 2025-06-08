@@ -278,7 +278,7 @@ Final State:
 
 In conclusion, integration of A* for normal game mode with simulated annealing for AI vs AI provides a good balance between the nature of dynamics and stability of the game. A* ensures real-time optimal moves for user interaction, while simulated annealing introduces unpredictability along with strategic exploration for opponents in AI games. The play-through of these two algorithms will bring an engaging and adaptable experience to the game. There are opportunities to realize and enhance AI difficulty, performance, and responsiveness without upsetting the game balance. The more the UI elements and optimized algorithms, the more this project evolves into more intelligent strategic play.
 
-**Project Report Submitted By**
+## **7. AUTHORS**
 
 Mugilkrishna D U             
 
